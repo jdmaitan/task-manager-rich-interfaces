@@ -322,8 +322,8 @@ May 2025
 
 **José Daniel Maitán Jiménez**
 
-- GitHub: [@your-username](https://github.com/jdmaitan)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/jdmaitan)
+- GitHub: [@jdmaitan](https://github.com/jdmaitan)
+- LinkedIn: [jdmaitan](https://linkedin.com/in/jdmaitan)
 
 ## License
 
